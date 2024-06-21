@@ -11,9 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankk.jjoshi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shashank_1203)
 
-😄 Pronouns: he/her
 
-⚡ Fun fact: Despite being a full-stack developer, I have a stronger inclination towards backend development. 
+⚡ Fun fact: I’m a full-stack developer who occasionally cheats on the front end with some spicy backend code
 
 ## 🚀 Skills
 
