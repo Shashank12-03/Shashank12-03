@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shashank Joshi!
 
-<!--
-**Shashank12-03/Shashank12-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently diving deep into React to enhance my front-end development skills.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on backend development projects, especially those involving RESTful APIs using Django and Django Rest Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m seeking guidance on how to excel in front-end development and make the most out of my React learning journey.
+
+📫 You can reach me at: shashankk.jjoshi@gmail.com
+
+😄 Pronouns: he/her
+
+⚡ Fun fact: Despite being a full-stack developer, I have a stronger inclination towards backend development. 
+
+## 🚀 Skills
+
+### Languages
+- **Python**
+- **Java**
+- **SQL**
+- **C**
+- **JavaScript**
+- **HTML + CSS**
+
+### Frameworks
+- **Django**
+- **Django Rest Framework**
+- **React**
+- **REST APIs**
+
+### Web Dev Tools
+- **Git**
+- **GitHub**
+
+### Databases
+- **PostgreSQL**
+- **MongoDB**
+
+### Computer Fundamentals
+- **Linux**
+- **Data Structures & Algorithms**
+- **Operating Systems**
+- **Object-Oriented Programming**
+- **Database Management Systems**
+- **Software Engineering**
+
+### Soft Skills
+- **Spearheaded Initiatives**
+- **Critical Thinking**
+- **Operational Excellence**
+- **Adaptability**
+- **Self-learning**
+- **Problem Solving**
+- **Communication**
+- **Independence**
+
+Looking forward to collaborating and building amazing projects together! 🚀
