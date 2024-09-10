@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Shashank Joshi!
 
-🌱 I’m currently diving deep into React to enhance my front-end development skills.
-
-👯 I’m looking to collaborate on backend development projects, especially those involving RESTful APIs using Django and Django Rest Framework.
-
-🤔 I’m seeking guidance on how to excel in front-end development and make the most out of my React learning journey.
+a Backend Developer – the role that gives me great satisfaction in solving intriguing problems and in doing which I enjoy studying about the best practices in architecture of clean systems in the scalable environments. Throughout my academic and professional experience, I have attempted to solve more than 400 DSA problems with the improvement of my analytical thinking. My time working at Algo Financials as Python Developer Intern and later at a Shway as a Backend Developer Intern has introduced me to crucial aspects of back-end architecture and API development, including working with real-time systems. I work best in positions that enable me to help in development of sound and effective structures and I am never shy from new knowledge and experience
 
 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-joshi-3664b2226/)
