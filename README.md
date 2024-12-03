@@ -27,6 +27,7 @@ a Backend Developer – the role that gives me great satisfaction in solving int
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=api&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=django,express,nextjs)](https://skillicons.dev)
 
 ### Web Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,6 +36,8 @@ a Backend Developer – the role that gives me great satisfaction in solving int
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis)](https://skillicons.dev)
+
 
 ### Computer Fundamentals
 - **Linux**
