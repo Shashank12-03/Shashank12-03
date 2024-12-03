@@ -23,9 +23,11 @@ a Backend Developer – the role that gives me great satisfaction in solving int
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,graphql,)](https://skillicons.dev)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
 
 
 ### Computer Fundamentals
