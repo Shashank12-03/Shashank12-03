@@ -1,49 +1,41 @@
-# 👨‍💻 Shashank Joshi — Backend Sorcerer | System Whisperer | Debugging Therapist
+# Shashank Joshi
 
-> “If it works, ship it. If it doesn't, log it. If it shouldn't work but still does... that's production baby.”
+Backend Developer specializing in scalable web systems and API development.
 
-Hey there! I'm **Shashank Joshi**, a backend developer who talks to databases more than humans and thinks REST is something you earn *after* optimizing that last API call. Currently wielding the power of **Django** and **Node.js**, I'm on a quest to build secure, scalable, and slightly magical web systems.
+## About Me
 
-I don’t just write code — I **architect** digital workflows, **debate with linter warnings**, and **strategize bug hunts** like a backend Batman.  
+I'm a backend developer with experience in building secure, efficient web applications. I focus on creating robust APIs, optimizing database performance, and implementing scalable system architectures.
 
----
+## Technical Skills
 
----
+### Programming Languages
+[![Skills](https://skillicons.dev/icons?i=js,java,py,sql)](https://skillicons.dev)
 
-## 🚀 Skills
+### Frameworks & Libraries
+[![Skills](https://skillicons.dev/icons?i=django,nodejs,express,nextjs,react)](https://skillicons.dev)
 
-### Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,java,py,sql)](https://skillicons.dev)
+### Tools & Technologies
+[![Skills](https://skillicons.dev/icons?i=postman,git,github,graphql)](https://skillicons.dev)
 
-### Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,nextjs,react)](https://skillicons.dev)
+### Databases
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
 
-### Web Dev Tools  
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,graphql)](https://skillicons.dev)
+### Cloud Services
+[![Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-### Databases  
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+## Current Focus
 
-### Cloud  
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+- Building scalable backend systems
+- API development and optimization
+- Database design and performance tuning
+- Problem-solving through daily coding practice
 
----
+## Connect
 
-## 📊 Problem-Solving Muscle
-
-Practicing LeetCode daily because solving problems under pressure builds character — and makes interviews slightly less scary.
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shashank-joshi-3664b2226/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:shashankk.jjoshi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shashank_1203)
 
 ---
 
-## 📫 Reach Out (I reply faster than your CI/CD)
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shashank-joshi-3664b2226/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:shashankk.jjoshi@gmail.com)
-
----
-
-> _Fun Fact_: My debugger and I are in a committed relationship. ❤️  
-> _Real Fact_: I love building backend systems that don't just *work* — they *scale*.  
-> _Also_: Yes, I did prompt an LLM to help write this — because knowing how to **talk to machines** is just as important as knowing how to code them. 😉
+*Focused on writing clean, maintainable code and building systems that scale.*
